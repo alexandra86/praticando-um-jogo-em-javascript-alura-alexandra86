@@ -18,5 +18,5 @@ A aplicação em Html e JavaScript, se refere ao desenvolvimento e prática de u
 - utilizado a biblioteca Math e seus atributos.
 
 <br><h2 font-family="pattaya">Link da página</h2><br>
-<a href="" font-family="robotto" font-size="16px">Tiro ao Alvo</a>
+<a href="https://praticando-um-jogo-em-javascript-alura-alexandra86-pqsyzofit.vercel.app/" font-family="robotto" font-size="16px">Tiro ao Alvo</a>
 
